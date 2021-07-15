@@ -1,0 +1,1 @@
+this is calculator application, where client request for some calculation and server replies back with the answer. 
